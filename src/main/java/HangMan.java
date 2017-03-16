@@ -1,5 +1,5 @@
 public class HangMan {
-  public String isHangManWord(String input) {
-    return "dead";
+  public String hangManWord(String input) {
+    return input;
   }
 }
